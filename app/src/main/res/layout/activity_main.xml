@@ -20,7 +20,7 @@
         android:fontFamily="monospace"
         android:text="@string/heading"
         android:textColor="@android:color/black"
-        android:textSize="36sp"
+        android:textSize="40sp"
         android:textStyle="bold" />
 
     <ImageView
